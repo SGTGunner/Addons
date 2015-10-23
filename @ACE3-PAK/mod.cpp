@@ -1,0 +1,11 @@
+name = "ACE3 PAK PATCH";
+picture = "mod.paa";
+description = "Patch for Advanced Medical PAKs";
+logo = "logo_ace3_ca.paa";
+logoOver = "logo_ace3_ca.paa";
+tooltip = "Patch";
+author = "Schwerer Konigstiger";
+overviewPicture = "logo_ace3_ca.paa";
+overview = "Patch for ACE3 Advanced Medical";
+overviewText = "ACE3 PAK Patch";
+overviewFootnote = "Patch for Advanced Medical PAKs";
